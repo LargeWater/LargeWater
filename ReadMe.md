@@ -1,5 +1,7 @@
-## Hi I'm Nick
+## Hi, I'm Nick
 ### I'm a full-stack developer based in Houston, TX
+#### I love to create things that are simple and efficient
+#### I'm also a guitarist and gear nerd, map enthusiast, and love a good sparkling water
 
 ## Get in touch with me
 ### [Email](mailto:nickcyg1992@gmail.com)
